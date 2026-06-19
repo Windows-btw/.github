@@ -1,3 +1,4 @@
+# .github
 <div align="center">
     <!-- Centered flower asset banner -->
     <img width=300 src="./assets/flower.gif"/>    
@@ -10,6 +11,7 @@
     <!-- Clean, functional, uniform dark text badges -->
     <a href="https://github.com/AsadTheKitty"><img src="https://img.shields.io/badge/Komorebi-1e1e2e?style=for-the-badge&logoColor=a6e3a1" alt="Komorebi"/></a>
     <a href="https://github.com/AsadTheKitty"><img src="https://img.shields.io/badge/YASB-1e1e2e?style=for-the-badge&logoColor=f38ba8" alt="YASB"/></a>
+    <a href="https://github.com/AsadTheKitty"><img src="https://img.shields.io/badge/Neovim-1e1e2e?style=for-the-badge&logoColor=94e2d5" alt="Neovim"/></a>
     <a href="https://github.com/AsadTheKitty"><img src="https://img.shields.io/badge/Terminal-1e1e2e?style=for-the-badge&logoColor=cdd6f4" alt="Terminal"/></a>
     <a href="https://github.com/AsadTheKitty"><img src="https://img.shields.io/badge/Windhawk-1e1e2e?style=for-the-badge&logoColor=89b4fa" alt="Windhawk"/></a>
 </div>
