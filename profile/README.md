@@ -1,4 +1,3 @@
-# .github
 <div align="center">
     <!-- Centered flower asset banner -->
     <img width=300 src="./assets/flower.gif"/>    
