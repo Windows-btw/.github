@@ -19,12 +19,12 @@
 This organization hosts configuration files, tiling window layouts, and custom scripts to map Windows 11 into a hyper-efficient, keyboard-driven environment.
 
 ### 🗂️ The Sauce
-* **[Terminal](https://github.com/Windows-btw/Terminal):** Custom shell configurations, profiles, and console emulator customizations.
-* **[dotfiles](https://github.com/Windows-btw/dotfiles):** Tiling layout rules (`komorebi.json`), window management rules, and central environment variables.
-* **[filepilot](https://github.com/Windows-btw/filepilot):** Lightweight file tracking scripts and custom automation wrappers.
-* **[nvim-win](https://github.com/Windows-btw/nvim-win):** High-speed text editing configurations optimized explicitly for loading inside Windows shell profiles.
-* **[oh-my-posh](https://github.com/Windows-btw/oh-my-posh):** Minimalist and hyper-informative prompt themes tailored for terminal workflows.
-* **[windhawk](https://github.com/Windows-btw/windhawk):** Tailored modifications and injection configurations to optimize Windows kernel UI behavior.
+* **[Terminal](https://github.com/Windows-btw/.github/tree/main/Terminal):** Custom shell configurations, profiles, and console emulator customizations.
+* **[dotfiles](https://github.com/Windows-btw/.github/tree/main/dotfiles):** Tiling layout rules (`komorebi.json`), window management rules, and central environment variables.
+* **[filepilot](https://github.com/Windows-btw/.github/tree/main/filepilot):** Lightweight file tracking scripts and custom automation wrappers.
+* **[nvim-win](https://github.com/Windows-btw/.github/tree/main/nvim-win):** High-speed text editing configurations optimized explicitly for loading inside Windows shell profiles.
+* **[oh-my-posh](https://github.com/Windows-btw/.github/tree/main/oh-my-posh):** Minimalist and hyper-informative prompt themes tailored for terminal workflows.
+* **[windhawk](https://github.com/Windows-btw/.github/tree/main/windhawk):** Tailored modifications and injection configurations to optimize Windows kernel UI behavior.
 
 > [!TIP]
 > Deployed environments are easily replicated and managed using native shell engines and lightweight package tools like `scoop`.
