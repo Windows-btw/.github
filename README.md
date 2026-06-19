@@ -12,15 +12,19 @@
     <a href="https://github.com/AsadTheKitty"><img src="https://img.shields.io/badge/Komorebi-1e1e2e?style=for-the-badge&logoColor=a6e3a1" alt="Komorebi"/></a>
     <a href="https://github.com/AsadTheKitty"><img src="https://img.shields.io/badge/YASB-1e1e2e?style=for-the-badge&logoColor=f38ba8" alt="YASB"/></a>
     <a href="https://github.com/AsadTheKitty"><img src="https://img.shields.io/badge/Terminal-1e1e2e?style=for-the-badge&logoColor=cdd6f4" alt="Terminal"/></a>
-    <a href="https://github.com/AsadTheKitty"><img src="https://img.shields.io/badge/Windhawk-1e1e2e?style=for-the-badge&logo=89b4fa" alt="Windhawk"/></a>
+    <a href="https://github.com/AsadTheKitty"><img src="https://img.shields.io/badge/Windhawk-1e1e2e?style=for-the-badge&logoColor=89b4fa" alt="Windhawk"/></a>
 </div>
 
 ## 🪟 Rice Thy Windows 
 This organization hosts configuration files, tiling window layouts, and custom scripts to map Windows 11 into a hyper-efficient, keyboard-driven environment.
 
 ### 🗂️ The Sauce
-* **[dotfiles](https://github.com/Windows-btw/dotfiles):** Tiling layout rules (`komorebi.json`), (`YASB`) and terminal configs.
+* **[Terminal](https://github.com/Windows-btw/Terminal):** Custom shell configurations, profiles, and console emulator customizations.
+* **[dotfiles](https://github.com/Windows-btw/dotfiles):** Tiling layout rules (`komorebi.json`), window management rules, and central environment variables.
+* **[filepilot](https://github.com/Windows-btw/filepilot):** Lightweight file tracking scripts and custom automation wrappers.
 * **[nvim-win](https://github.com/Windows-btw/nvim-win):** High-speed text editing configurations optimized explicitly for loading inside Windows shell profiles.
+* **[oh-my-posh](https://github.com/Windows-btw/oh-my-posh):** Minimalist and hyper-informative prompt themes tailored for terminal workflows.
+* **[windhawk](https://github.com/Windows-btw/windhawk):** Tailored modifications and injection configurations to optimize Windows kernel UI behavior.
 
 > [!TIP]
 > Deployed environments are easily replicated and managed using native shell engines and lightweight package tools like `scoop`.
