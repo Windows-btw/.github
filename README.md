@@ -22,7 +22,7 @@ This organization hosts configuration files, tiling window layouts, and custom s
 * **[Terminal](https://github.com/Windows-btw/.github/tree/main/Terminal):** Custom shell configurations, profiles, and console emulator customizations.
 * **[dotfiles](https://github.com/Windows-btw/.github/tree/main/dotfiles):** Tiling layout rules (`komorebi.json`), window management rules, and central environment variables.
 * **[filepilot](https://github.com/Windows-btw/.github/tree/main/filepilot):** Lightweight file tracking scripts and custom automation wrappers.
-* **[nvim-win+wsl](https://github.com/Windows-btw/.github/tree/main/nvim-win):** High-speed text editing configurations optimized explicitly for loading Neovide and Neovide --wsl.
+* **[LazyViml](https://github.com/Windows-btw/.github/tree/main/nvim-win):** High-speed text editing configurations optimized explicitly for loading Neovide and Neovide --wsl.
 * **[oh-my-posh](https://github.com/Windows-btw/.github/tree/main/oh-my-posh):** Minimalist and hyper-informative prompt themes tailored for terminal workflows.
 * **[windhawk](https://github.com/Windows-btw/.github/tree/main/windhawk):** Tailored modifications and injection configurations to optimize Windows kernel UI behavior.
 
