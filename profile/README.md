@@ -20,7 +20,7 @@
 This organization hosts configuration files, tiling window layouts, and custom scripts to map Windows 11 into a hyper-efficient, keyboard-driven environment.
 
 ### 🗂️ The Sauce
-* **[Custom Cursor](https://github.com/Windows-btw/.github/tree/main/Custom-Cursor):** Curated pointer themes, high-DPI scaling modifications, and custom registry tweaks for cursor aesthetics.
+* **[Custom Cursor](https://github.com/Windows-btw/.github/tree/main/Custom%20Cursor):** Curated pointer themes, high-DPI scaling modifications, and custom registry tweaks for cursor aesthetics.
 * **[Terminal](https://github.com/Windows-btw/.github/tree/main/Terminal):** Custom shell configurations, profiles, and console emulator customizations.
 * **[dotfiles](https://github.com/Windows-btw/.github/tree/main/dotfiles):** Tiling layout rules (`komorebi.json`), window management rules, and central environment variables.
 * **[filepilot](https://github.com/Windows-btw/.github/tree/main/filepilot):** Lightweight file tracking scripts and custom automation wrappers.
