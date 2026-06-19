@@ -19,7 +19,7 @@
 This organization hosts configuration files, tiling window layouts, and custom scripts to map Windows 11 into a hyper-efficient, keyboard-driven environment.
 
 ### 🗂️ The Sauce
-* **[dotfiles](https://github.com/Windows-btw/dotfiles):** Tiling layout rules (`komorebi.json`), fast startup macros, and terminal configs.
+* **[dotfiles](https://github.com/Windows-btw/dotfiles):** Tiling layout rules (`komorebi.json`), (`YASB`) and terminal configs.
 * **[nvim-win](https://github.com/Windows-btw/nvim-win):** High-speed text editing configurations optimized explicitly for loading inside Windows shell profiles.
 
 > [!TIP]
