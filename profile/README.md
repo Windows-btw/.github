@@ -20,10 +20,12 @@
 This organization hosts configuration files, tiling window layouts, and custom scripts to map Windows 11 into a hyper-efficient, keyboard-driven environment.
 
 ### 🗂️ The Sauce
+* **[Custom Cursor](https://github.com/Windows-btw/.github/tree/main/Custom-Cursor):** Curated pointer themes, high-DPI scaling modifications, and custom registry tweaks for cursor aesthetics.
 * **[Terminal](https://github.com/Windows-btw/.github/tree/main/Terminal):** Custom shell configurations, profiles, and console emulator customizations.
 * **[dotfiles](https://github.com/Windows-btw/.github/tree/main/dotfiles):** Tiling layout rules (`komorebi.json`), window management rules, and central environment variables.
 * **[filepilot](https://github.com/Windows-btw/.github/tree/main/filepilot):** Lightweight file tracking scripts and custom automation wrappers.
-* **[LazyVim](https://github.com/Windows-btw/.github/tree/main/nvim-win):** High-speed text editing configurations optimized explicitly for loading Neovide and Neovide --wsl.
+* **[LazyVim](https://github.com/Windows-btw/.github/tree/main/nvim-win):** High-speed text editing configurations optimized explicitly for loading Neovide and Neovide --wsl. Includes optimized `Keymaps.lua` profiles.
+* **[MyDockFinder](https://github.com/Windows-btw/.github/tree/main/MyDockFinder):** Custom themes, layouts, and blurred styling setups for the MyDockFinder desktop environment extension.
 * **[oh-my-posh](https://github.com/Windows-btw/.github/tree/main/oh-my-posh):** Minimalist and hyper-informative prompt themes tailored for terminal workflows.
 * **[windhawk](https://github.com/Windows-btw/.github/tree/main/windhawk):** Tailored modifications and injection configurations to optimize Windows kernel UI behavior.
 
